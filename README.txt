@@ -1,0 +1,1 @@
+Upload index.html, manifest.webmanifest, sw.js and both icons to the root of a new GitHub repository. Import it into Vercel, framework preset Other, no build command. Open deployed HTTPS URL in Safari on iPhone, Share > Add to Home Screen. Test mode only; no remote approval or persistence. JPEG/PNG recommended. No device test performed.
